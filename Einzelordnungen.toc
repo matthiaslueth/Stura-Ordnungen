@@ -1,5 +1,4 @@
 \select@language {ngerman}
-\contentsline {section}{\numberline {\S \ensuremath {\,}1}Pr\IeC {\"a}ambel}{2}
-\contentsline {section}{\numberline {\S \ensuremath {\,}2}Begriffsbestimmungen}{2}
-\contentsline {section}{\numberline {\S \ensuremath {\,}3}Soziale Medien}{2}
-\contentsline {section}{\numberline {\S \ensuremath {\,}4}Inhalte sozialer Medien}{2}
+\contentsline {section}{\numberline {\S \ensuremath {\,}1}Status of student group}{2}
+\contentsline {section}{\numberline {\S \ensuremath {\,}2}Rights of student groups}{2}
+\contentsline {section}{\numberline {\S \ensuremath {\,}3}Final clause}{2}
